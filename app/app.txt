@@ -1,4 +1,4 @@
 
-blue:blue #arefe
-alireza:alireza #admin
-pars:pars #hossein
+blue:blue
+alireza:alireza
+pars:pars
