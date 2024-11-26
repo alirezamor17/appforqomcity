@@ -1,14 +1,14 @@
 {
-    "users": [
-        {
-            "username": "user",
-            "password": "123",
-            "device_id": null
-        },
-        {
-            "username": "user2",
-            "password": "password456",
-            "device_id": null
-        }
-    ]
+  "users": [
+    {
+      "username": "user1",
+      "password": "$2a$12$zHoL1tb2A0PNTmJvRzIlqeW6eyOgOhfj4IffAsgQ5Fb7O3q1r.lnm",  // هشداری از رمز عبور
+      "device_id": "1234567890abcdef"
+    },
+    {
+      "username": "user2",
+      "password": "ali",
+      "device_id": null
+    }
+  ]
 }
