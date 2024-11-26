@@ -2,7 +2,7 @@
   "users": [
     {
       "username": "user1",
-      "password": "$2a$12$zHoL1tb2A0PNTmJvRzIlqeW6eyOgOhfj4IffAsgQ5Fb7O3q1r.lnm",  // هشداری از رمز عبور
+      "password": "$2a$12$zHoL1tb2A0PNTmJvRzIlqeW6eyOgOhfj4IffAsgQ5Fb7O3q1r.lnm",
       "device_id": "1234567890abcdef"
     },
     {
