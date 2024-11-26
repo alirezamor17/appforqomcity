@@ -3,7 +3,7 @@
     {
       "username": "user1",
       "password": "4",
-      "device_id": ""
+      "device_id": null
     },
     {
       "username": "user3",
