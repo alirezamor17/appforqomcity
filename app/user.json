@@ -3,12 +3,12 @@
     {
       "username": "user1",
       "password": "4",
-      "device_id": "1234567890abcdef"
+      "device_id": ""
     },
     {
       "username": "user3",
       "password": "ali",
-      "device_id": 
+      "device_id": ""
     }
   ]
 }
