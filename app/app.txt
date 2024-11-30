@@ -2,4 +2,3 @@ pars:pars
 blue:blue
 alirw:1
 222:11
-alireza:1
